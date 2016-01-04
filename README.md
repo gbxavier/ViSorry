@@ -1,0 +1,2 @@
+# ViSorry
+Another unfortune repository

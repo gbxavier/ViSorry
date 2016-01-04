@@ -1,2 +1,2 @@
 # ViSorry
-Another unfortune repository
+Another unfortuned repository
